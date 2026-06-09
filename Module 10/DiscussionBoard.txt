@@ -1,0 +1,6 @@
+Select one of the following and find at least two (2) articles on the topic. In your post, include links to your sources, an explanation of the topic, when it should be used, why it should be used, and what tools are available, if any, to help with implementation.
+
+Static Analysis
+Dynamic Analysis
+Dependency Scanning
+Source Code Integrity and Code Signing

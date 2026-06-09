@@ -1,0 +1,5 @@
+Select one of the following and find at least one article on the topic.
+
+Explain the Strangler Application Pattern. Are there any disadvantages to incorporating this technique?
+What is meant by the phrase Monoliths vs. Microservices? When might each be used?
+Explain the difference between tightly-coupled and loosely-coupled architecture, and provide examples of each. When might each be used?

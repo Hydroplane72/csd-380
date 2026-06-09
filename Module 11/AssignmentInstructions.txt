@@ -1,0 +1,2 @@
+Read the case study "Providing Compliance in Regulated Environments" and the case study "Relying on Production Telemetry for ATM Systems" in Chapter 23 of the course textbook. Compose a paper of the author's main points and the lessons learned for both case studies.
+

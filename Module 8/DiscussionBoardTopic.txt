@@ -1,0 +1,7 @@
+Discussion Topics: Learning in Daily Work
+
+Select one of the following and find at least two (2) articles on the topic.
+
+Why did Etsy develop a Morgue tool? How is it now used?
+When and how did Netflix's Chaos Monkey come into being? Has it evolved?
+Provide two examples of Transparent Uptime. Any drawbacks to using this technique?

@@ -1,0 +1,9 @@
+Assignment: Pager Rotation Duties
+
+Research industry best practices for “pager rotation duties” as it relates to the DevOps model and create a 7-10 slide presentation of your findings. Find at least two (2) additional resources of information. Include citations where appropriate. Review the pages in Chapter 16 (on pager rotation duties) of the course's textbook for inspiration.
+
+Assignment Requirements and Grading:
+
+This assignment is due by Sunday, 11:59 p.m. CST.
+Submit your assignment by clicking in the Module Assignment, then use the Attach Files icon from the toolbar (the paperclip). Select your assignment file, add the URL to your GitHub repository in the comments area, and then click on Submit.
+Click on the following for instructions: 

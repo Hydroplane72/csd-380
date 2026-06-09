@@ -1,0 +1,5 @@
+Select one of the following and find at least one article on the topic.
+
+Explain Trunk-Based development, including how it compares to feature branches. Are there any disadvantages to incorporating Trunk-Based development?
+What is meant by the phrase Decouple Deployments from Releases? Is it even possible to do so? Any reason not to do so?
+Select one case study from either Chapter 11 or Chapter 12 and provide a summary of what happened and why. Include your observations; was the change warranted? Costly? Timely?

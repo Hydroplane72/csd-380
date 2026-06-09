@@ -1,0 +1,14 @@
+Select one of the following and find at least two articles on the topic. Address the subtopics for your selection.
+
+TDD
+What is TDD?
+What are the advantages and disadvantages of TDD?
+Why was TDD created?
+BDD
+What is BDD?
+How is it used? Why is it used?
+Why do some developers prefer BDD over TDD?
+Andon Cord
+What is an Andon Cord? Where does the term come from?
+When would you pull an Andron Cord?
+When would it NOT be a good idea to pull an Andon Cord?

@@ -1,0 +1,13 @@
+In this module's discussion board assignment, select and discuss one topic from each list and find at least one article for each chosen topic.
+
+Telemetry
+
+Describe what is meant by Telemetry in DevOps. What type of data might be collected? Why?
+What can be explained by a non-Gaussian distribution? Can the distribution still be used?
+Provide at least two (2) examples of anomaly detection tools as they apply to DevOps. Which would you recommend? Why?
+
+Anomalies
+
+Describe what is meant by A/B testing. Find at least two examples. What might happen if A/B testing is not used?
+Describe what is meant by prototyping. How is it different from prototyping? When might each be used?
+Explain two different types of code/peer reviews. When might each be used? Why?
