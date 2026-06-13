@@ -1,6 +1,0 @@
-Research version control tools/software (remember GitHub?), and find at least two sites that provide tools for version control.
-
-Do both tools provide the same features? If not, what is the difference?
-Any advantages/disadvantages mentioned?
-If you were making the decision, which would you select and why?
-Include the URL of each site.
